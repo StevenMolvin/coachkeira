@@ -1,12 +1,12 @@
 body {
-    background-image: url("47Nd.gif") ;
+    background-image: url("./assests/47Nd.gif") ;
     background-repeat: no-repeat;
     background-size: cover;
    
 }
 
 #main {
-    background-image: url("47Nd.gif") ;
+    background-image: url("./assests/47Nd.gif") ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 1400px;
